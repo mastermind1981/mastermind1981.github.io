@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mastermind1981.github.io
+title: mastermind1981
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
